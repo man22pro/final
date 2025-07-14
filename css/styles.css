@@ -212,7 +212,7 @@ ul {
 
 /* ================================================================ */
 .hero {
-    background: linear-gradient(rgba(50, 50, 0, 0.8), rgba(30, 30, 0, 0.8)), url('../images/photo/banner1-2.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 150, 0.4), rgba(0, 0, 50, 0.8)), url('../images/photo/banner1-2.jpg') no-repeat center center/cover;
     height: 100vh;
     color: var(--white-color);
     display: flex;
